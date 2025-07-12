@@ -21,4 +21,4 @@ Basic UI design with CSS
 
 JavaScript logic building
 
-🔗 Live Demo: https://tanmaymargaj35.github.io/Calculator-using-HTML-CSS-and-JavaScript/
+🔗 Live Demo: 
