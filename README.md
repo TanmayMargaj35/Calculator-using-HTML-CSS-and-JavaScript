@@ -1,24 +1,45 @@
-🧮 Calculator Using HTML, CSS, and JavaScript
-This project is a simple and interactive calculator built using HTML, CSS, and JavaScript. It performs essential arithmetic operations such as:
+# 🧮 Simple Calculator
 
-➕ Addition
+A responsive, clean, and beginner-friendly **Calculator Web App** built using **HTML, CSS, and JavaScript**. This project helped me understand core concepts like DOM manipulation and event handling in JavaScript.
 
-➖ Subtraction
+---
 
-✖️ Multiplication
+## 📌 Overview
 
-➗ Division
+This calculator performs all basic arithmetic operations:
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
 
-JavaScript is used to handle all the calculations and user input logic, while CSS adds a clean and responsive design to make the interface more intuitive and user-friendly.
+Designed with an intuitive layout and mobile responsiveness in mind. The calculator updates the screen in real time and handles user input effectively using JavaScript logic.
 
-This project is ideal for beginners looking to practice and strengthen their skills in:
+---
 
-DOM manipulation
+## 🚀 Features
 
-Event handling
+- Real-time result display
+- Clear (C) and Delete (←) functionality
+- Input validation
+- Responsive design
 
-Basic UI design with CSS
+---
 
-JavaScript logic building
+## 🛠️ Technologies Used
 
-🔗 Live Demo: 
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📽️ Live Demo
+
+🔗 [View Calculator Live](#) 
+
+---
+
+## 👤 Connect with Me
+
+- 🔗 [GitHub](https://github.com/TanmayMargaj35)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
