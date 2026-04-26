@@ -35,7 +35,7 @@ Designed with an intuitive layout and mobile responsiveness in mind. The calcula
 
 ## 📽️ Live Demo
 
-🔗 [View Calculator Live](#) 
+🔗 [View Calculator Live](https://calculator-using-html-css-and-java.vercel.app/) 
 
 ---
 
